@@ -25,7 +25,7 @@
     "better-sqlite3": "^8.0.0",
     "better-sqlite3-with-prebuilds": "^7.4.3",
     "gyp": "^0.5.0",
-    "node-gyp": "^9.3.0",
+    "node-gyp": "^9.3.1",
     "python-shell": "^3.0.1",
     "sqlite3": "^5.1.2",
     "web-model": "^0.3.15"
